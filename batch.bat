@@ -1,3 +1,3 @@
 @echo off
 :X
-curl can-you-hear-me
+curl can-you-hear-me.live
