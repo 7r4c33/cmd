@@ -1,4 +1,3 @@
 @echo off
 :X
-ECHO bije zone
-goto x
+curl can-you-hear-me
