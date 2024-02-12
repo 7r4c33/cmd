@@ -1,7 +1,8 @@
+@echo off
 echo checking server status...
-timeout /t 6
+timeout /t 6 >nul
 echo connected!
-timeout /t 3
+timeout /t 3 >nul
 cls
 goto x
 
